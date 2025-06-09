@@ -86,4 +86,5 @@ python manage.py runserver
 A API estará disponível em `http://127.0.0.1:8000/admin/`.
 
 User: antonio
+
 Password: antonio
